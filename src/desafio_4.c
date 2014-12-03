@@ -14,9 +14,9 @@ void printar_matriz(int v[][4]){
 int main(){
 
 	int matriz[4][4] = {{ 2, 5, 9, 4 },
-						{ 4, 5, 6, 3 },
-						{ 4, 5, 6, 3 },
-						{ 4, 5, 6, 3 }};
+                        { 4, 5, 6, 3 },
+                        { 4, 5, 6, 3 },
+                        { 4, 5, 6, 3 }};
 
 	printf("imprimindo a matriz!\n");
 	printar_matriz(matriz);
