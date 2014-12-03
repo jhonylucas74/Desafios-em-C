@@ -4,7 +4,8 @@ O objetivo é criar um vetor que possua  5 índices, e ao criar adicionaremos va
 
 ## Para ajudar
 
-Para auxiliar segue abaixo  alguns modelos da sintaxe do C;
+Para auxiliar segue abaixo  alguns modelos da sintaxe do C.O código desse desafio já resolvido, caso precise tirar uma dúvida ele se encontra na pasta src.
+
 
 ```c
 #include <stdio.h> 
