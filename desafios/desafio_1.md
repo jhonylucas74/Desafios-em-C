@@ -32,12 +32,12 @@ variavel[3] = 4;
 
 ```c
 void imprimir(int v){
-    printf(“%d \n”,v);
+    printf("%d \n",v);
 }
 ```
 
 ```c
 for(int i = 0; i<4; i++){
-    printf(“%d \n”,i);
+    printf("%d \n",i);
 }
 ```
