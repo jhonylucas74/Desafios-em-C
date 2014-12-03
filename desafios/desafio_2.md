@@ -8,7 +8,7 @@ Para facilitar a análise dos resultados antes de chamar a função **printar** 
 
 ## Para ajudar
 
-Para auxiliar segue abaixo  alguns modelos da sintaxe do C. O código desse desafio já resolvido, caso precise tirar uma dúvida ele se encontra na pasta src.
+Para auxiliar segue abaixo  alguns modelos da sintaxe do C. O código desse desafio já está resolvido. Caso precise tirar uma dúvida ele se encontra na pasta src.
 
 ```c
 int variavel[4] = { 1, 4, 2, 4 };
